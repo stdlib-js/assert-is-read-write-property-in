@@ -156,6 +156,25 @@ bool = isReadWritePropertyIn( void 0, 'a' );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/assert/is-read-only-property-in`][@stdlib/assert/is-read-only-property-in]: test if an object's own or inherited property is read-only.
+-   [`@stdlib/assert/is-read-write-property`][@stdlib/assert/is-read-write-property]: test if an object's own property is readable and writable.
+-   [`@stdlib/assert/is-readable-property-in`][@stdlib/assert/is-readable-property-in]: test if an object's own or inherited property is readable.
+-   [`@stdlib/assert/is-writable-property-in`][@stdlib/assert/is-writable-property-in]: test if an object's own or inherited property is writable.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -210,6 +229,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/assert-is-read-write-property-in/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/assert/is-read-only-property-in]: https://github.com/stdlib-js/assert-is-read-only-property-in
+
+[@stdlib/assert/is-read-write-property]: https://github.com/stdlib-js/assert-is-read-write-property
+
+[@stdlib/assert/is-readable-property-in]: https://github.com/stdlib-js/assert-is-readable-property-in
+
+[@stdlib/assert/is-writable-property-in]: https://github.com/stdlib-js/assert-is-writable-property-in
+
+<!-- </related-links> -->
 
 </section>
 
